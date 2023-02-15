@@ -1,5 +1,7 @@
 # 271 Project 1: Distributed Blockchain
 
+This sample code demos a distributed blockchain between 3 clients and a server using Lamport's total order time-stamp protocol
+
 How to run:
 
 1. Run the server using **server.py**
